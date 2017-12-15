@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter Rest Server
 
 [![Gitter chat](https://badges.gitter.im/chriskacerguis/codeigniter-restserver.png)](https://gitter.im/codeigniter-restserver/Lobby)
@@ -235,3 +236,6 @@ as he is no longer using it.  As of 2013/11/20 further development and support w
 
 Pull Requests are the best way to fix bugs or add features. I know loads of you use this, so please
 contribute if you have improvements to be made and I'll keep releasing versions over time.
+=======
+# webService
+>>>>>>> 2bbb35ec5b44a6ffaf3479047e3ee5861574c383
